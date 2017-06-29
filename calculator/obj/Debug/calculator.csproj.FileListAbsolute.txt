@@ -22,3 +22,11 @@ D:\OneDrive\Šola\3.letnik\calculator\calculator\obj\Debug\calculator.csprojReso
 D:\OneDrive\Šola\3.letnik\calculator\calculator\obj\Debug\calculator.Form1.resources
 D:\OneDrive\Šola\3.letnik\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
 D:\OneDrive\Šola\3.letnik\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\OneDrive\Šola\3.letnik\calculator\asd\calculator\obj\Debug\calculator.exe
+D:\OneDrive\Šola\3.letnik\calculator\asd\calculator\obj\Debug\calculator.pdb
+D:\OneDrive\Šola\3.letnik\calculator\asd\calculator\bin\Debug\calculator.exe
+D:\OneDrive\Šola\3.letnik\calculator\asd\calculator\bin\Debug\calculator.pdb
+D:\OneDrive\Šola\3.letnik\calculator\asd\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\OneDrive\Šola\3.letnik\calculator\asd\calculator\obj\Debug\calculator.Form1.resources
+D:\OneDrive\Šola\3.letnik\calculator\asd\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\OneDrive\Šola\3.letnik\calculator\asd\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
